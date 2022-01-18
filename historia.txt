@@ -1,5 +1,6 @@
 Esta es la historia de Ibsen Medina
 
-Ibsen Medina tiene 24 años y está aprendiendo a programar
+Ibsen Medina tiene 24 años y está aprendiendo a programar.
+Ahorita está viendo clases de Git en Platzi.
 
 Hoy hablaremos de su historia
